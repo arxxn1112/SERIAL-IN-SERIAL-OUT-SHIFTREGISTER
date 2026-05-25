@@ -29,7 +29,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 ```
-module EXP10(clk, sin, q);
+module Dnew5(clk, sin, q);
 input clk;
 input sin;
 output [3:0] q;
@@ -44,6 +44,7 @@ end
 endmodule
 ```
 Developed by: Joshna.M
+
 RegisterNumber: 212225230118
 
 */
