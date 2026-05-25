@@ -43,9 +43,9 @@ q[3] <= q[2];
 end
 endmodule
 ```
-Developed by: Joshna.M
+Developed by: Arunachalam M
 
-RegisterNumber: 212225230118
+RegisterNumber: 212225230019
 
 */
 
